@@ -1,0 +1,19 @@
+body{
+    font-family: 'Germania One',cursive;
+    color: white;
+    background-color: yellow;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+
+
+.intro-style{
+    color: green;
+}
+#subtitle{
+    color: red;
+}
